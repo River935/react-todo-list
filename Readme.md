@@ -1,0 +1,1 @@
+Just a simple To Do list app. Created to learn React Native.
